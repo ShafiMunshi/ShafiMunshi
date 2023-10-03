@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shafi Munshi</h1>
-<h3 align="center">A passionate Flutter App developer & Competetive Programming from Bangladesh.</h3>
+<h3 align="center">A passionate Flutter App developer & Competetive Programming.</h3>
 
 
 
-- 🔭 I’m currently working on **Application Development**
+- 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Bloc, MVVVM etc.**
+- 🌱 I’m currently learning **Bloc, TDD etc.**
 
 - 👯 I’m looking to collaborate on **Development beside Programming.**
 
