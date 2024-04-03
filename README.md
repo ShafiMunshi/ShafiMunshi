@@ -1,30 +1,128 @@
-<h1 align="center">Hi 👋, I'm Shafi Munshi</h1>
-<h3 align="center">A passionate Flutter App developer & Competetive Programming.</h3>
 
 
 
-- 🔭 I’m currently working on **Mobile Application Development**
+### Hi there 👋
 
-- 🌱 I’m currently learning **Bloc, TDD etc.**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Shafi!;I'm+a+Flutter+Developer...;I'm+also+Rust+Backend+Engineer)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on **Development beside Programming.**
+<img src="https://komarev.com/ghpvc/?username=ShafiMunshi&label=Views&color=brightgreen&style=flat-square" alt="10 views on github" />
 
-- 💬 Ask me about **Flutter**
+<h3> Here's some fun facts about me: </h3>
 
-- 📫 How to reach me **shafimunshi111@gmail.com**
+- 🔭 I’m currently working on Flutter Projects
+- 🌱 I've 2+ months of internship experience worked at Bytezenith and built applications in Flutter
+- 🤔 I'm learning Axum to build API and Clean Architecture in Flutter
+- 👯 I’m looking to collaborate on Flutter, Backend Projects with Axum
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`,
+- 💬 Solving Algorithmic Question in Codeforces, LeetCode
+- 📫 I am also a technical writer at Medium
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/ShafiMunshi).
 
-- ⚡ Fun fact **Memes , funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/Mr.Shafi.Munshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.shafi.munshi" height="30" width="40" /></a>
-<a href="https://instagram.com/shafi.munshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shafi.munshi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shafi.munshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shafi.munshi" height="30" width="40" /></a>
+<p>Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/shafi-munshi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:shafimunshi111@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://facebook.com/Mr.Shafi.Munshi"><img src="https://img.shields.io/badge/-FB-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
+<!-- &emsp;
+<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+ -->
+
+<br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s&show_icons=true&locale=en&layout=compact" alt="s" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s&show_icons=true&locale=en" alt="s" /></p>
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  
+
+  <a href="https://dart.dev/">
+    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+&emsp;
+<a href="https://c++.org/">
+    <img alt="C++" src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  &emsp;
+<a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+
+   
+
+</p>
+
+### 👉 Frameworks
+<p align="left"> 
+&emsp;
+  <a href="https://flutter.dev/" target="_blank"> 
+     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+   </a>
+  &emsp; 
+  
+ 
+  <a href="https://axum-learn.org/" target="_blank">
+    <img alt="Axum" src="https://img.shields.io/badge/Axum-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a> 
+ 
+
+
+ 
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SurrealDB" src ="https://img.shields.io/badge/SurrealDB-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+ </p>
+
+ ### 👉 Online Judge I Solve
+ 
+<p align="left">
+  &emsp;
+  <a href="https://leetcode.com/shafi.munshi/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  &emsp;
+   	<a href="https://codeforces.com/profile/shafi_munshi"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" alt="Codeforces" width = 60px/></a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+     &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+    &emsp;
+     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    &emsp;
+    
+</p>
+
+
+<br/>
+
+------
+Credit: [Shafi Munshi](https://github.com/ShafiMunshi)
