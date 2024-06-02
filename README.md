@@ -15,8 +15,8 @@
 - 👯 I’m looking to collaborate on Flutter, Backend Projects with Axum
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`,
 - 💬 Solving Algorithmic Question in Codeforces, LeetCode
-- 📫 I am also a technical writer at Medium
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/ShafiMunshi).
+- 📫 I am also a technical writer at Medium , [Articles](https://medium.com/@shafimunshi/bcrypt-in-rust-a54fa255869b)
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/ShafiMunshi](https://drive.google.com/file/d/1XY10UCNFlGGLgzLBrjFHmWm-wSNWKf3q/view?usp=drive_link](https://drive.google.com/file/d/1XY10UCNFlGGLgzLBrjFHmWm-wSNWKf3q/view?usp=sharing))
 
 
 <p>Connect with me on
