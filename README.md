@@ -3,16 +3,16 @@
 
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Shafi!;I'm+a+Flutter+Developer...;I'm+also+Rust+Backend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Shafi!;I'm+a+Flutter+Developer...;I'm+also+Rust+Backend+Engineer;I'm+an+ML+Enthuasists)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ShafiMunshi&label=Views&color=brightgreen&style=flat-square" alt="10 views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 2+ months of internship experience worked at Bytezenith and built applications in Flutter
-- 🤔 I'm learning Axum to build API and Clean Architecture in Flutter
-- 👯 I’m looking to collaborate on Flutter, Backend Projects with Axum
+- 🌱 I've 7+ months of experience worked at Ragory and built applications in Flutter
+- 🤔 I'm learning machine learning, Docker, CI/CD to collaborate some of my project. 
+- 👯 I’m looking to collaborate on Flutter, Backend Projects with Axum and SurrealDB
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`,
 - 💬 Solving Algorithmic Question in Codeforces, LeetCode
 - 📫 I am also a technical writer at Medium , [Articles](https://medium.com/@shafimunshi/bcrypt-in-rust-a54fa255869b)
