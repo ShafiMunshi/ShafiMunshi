@@ -10,7 +10,7 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 7+ months of experience worked at Ragory and built applications in Flutter
+- 🌱 I've 1 years of experience worked at Ragory and built applications in Flutter
 - 🤔 I'm learning machine learning, Docker, CI/CD to collaborate some of my project. 
 - 👯 I’m looking to collaborate on Flutter, Backend Projects with Axum and SurrealDB
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`,
